@@ -1,0 +1,10 @@
+.card {
+    width: 300px;
+    height: 300px;
+    border-color: black;
+    border: 2px;
+}
+
+.title{
+    font-size: large;
+}

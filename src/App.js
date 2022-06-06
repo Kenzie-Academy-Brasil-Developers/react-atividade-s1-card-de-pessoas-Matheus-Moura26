@@ -13,7 +13,6 @@ function App() {
   return (
     <div className='App'>
       <header className='App-header'>
-      <Pessoa nome="Filipe" age="29"/>
       {people.map( (item, index) => (<Pessoa 
       
       key={index}
